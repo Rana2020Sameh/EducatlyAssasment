@@ -2,7 +2,7 @@
 
 Selenium webdriver using TestNG Framework.
 
-[![Video](https://img.youtube.com/vi/S3iASbfeL34/0.jpg)](https://www.youtube.com/watch?v=4lqdBO0QT50)
+[![Video](https://www.googletagmanager.com/ns.html?id=GTM-5565CC3.jpg)](https://www.youtube.com/watch?v=4lqdBO0QT50)
 
 
 <br />
