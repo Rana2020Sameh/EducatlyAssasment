@@ -19,7 +19,7 @@ Selenium webdriver using TestNG Framework.
 ## Requirements
 - Edge browser.
 - IntelliJ.
-
+## TestReport
 - ![Screenshot 2024-03-25 095937](https://github.com/Rana2020Sameh/EducatlyAssasment/assets/105318792/a6df9e77-3a97-4c19-ba4b-cf90f712fa89)
 
     
